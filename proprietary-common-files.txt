@@ -66,3 +66,7 @@ system/lib/libtvoutinterface.so
 system/lib/libtvoutservice.so 
 system/lib/hw/hwcomposer.smdk4210.so 
 system/vendor/firmware/libpn544_fw.so 
+system/vendor/lib/libwvdrm_L1.so 
+system/vendor/lib/libwvm.so 
+system/vendor/lib/libWVStreamControlAPI_L1.so 
+system/vendor/lib/drm/libdrmwvmplugin.so  
