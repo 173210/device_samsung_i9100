@@ -1,0 +1,9 @@
+Copyright 2013 - The Root BOX Project (Merged KBC's mods)
+
+Device configuration for Samsung Galaxy S2 (ntt docomo model).
+
+WORK IN PROGRESS. WILL EAT YOUR CAT.
+
+Please add the repo of sc02c to local_manifest.xml
+
+  <project name="173210/device_samsung_sc02c" path="device/samsung/sc02c" remote="github" revision="jb-mr1" />
